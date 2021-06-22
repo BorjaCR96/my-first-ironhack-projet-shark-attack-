@@ -3,15 +3,17 @@
 
 **Sharks Attack Project**
 
-**WhO is the most letal shark?**
+**Who is the most letal shark?**
 
 *Aim of this project*
-#The aim of this project was to analyze a whole data frame, in this case of the total number of shark attacks in the world. In order to practice the cleaning of data, creating variables and the visualization of the data.
+#The aim of this project was to analyze a whole data frame, in this case of the total number of shark attacks in the world. In order to practice the cleaning of data, creating variables and the visualization of the data. For this project, the main objective of my analysis and my research was to find out, who is the most letal shark specie. Based on the information of the data base.
 
 Library used:
 
 The next libraries have been used to gather the information and to analyze it.
 
 Pandas - https://pandas.pydata.org/
+
 Seaborn - https://seaborn.pydata.org/#
+
 Matplotlib - https://matplotlib.org/
